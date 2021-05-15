@@ -39,6 +39,7 @@ const colors = {
   soundcloud: '#f50',
   steam: '#c6c3c1',
   stumbleupon: '#EB4823',
+  tiktok: '#000000',
   tumblr: '#32506d',
   twitch: '#6441A5',
   twitter: '#00aced',
@@ -62,6 +63,7 @@ export type SocialMediaType =
   | 'linkedin'
   | 'youtube'
   | 'vimeo'
+  | 'tiktok'
   | 'tumblr'
   | 'instagram'
   | 'quora'
